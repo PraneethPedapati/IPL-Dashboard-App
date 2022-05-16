@@ -1,0 +1,17 @@
+.team-matches-container {
+  padding: 30px 15px;
+  min-height: 100vh;
+}
+
+.rcb-background {
+  background-image: linear-gradient(to top, #1e293b, #a4261d);
+}
+
+.banner-img {
+  width: 100%;
+}
+
+.loader-spinner {
+  padding-top: 300px;
+  text-align: center;
+}
